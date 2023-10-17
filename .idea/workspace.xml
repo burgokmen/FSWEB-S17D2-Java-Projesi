@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/DependencyInjection/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="developer folder ongoing">
+      <change afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DependencyInjection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/DependencyInjectionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/DependencyInjectionApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +18,14 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +51,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2Wt5KN9xMCItO3M6UPNlvPnn7eL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,7 +77,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,7 +120,8 @@
       <workItem from="1697546690622" duration="99000" />
       <workItem from="1697546792819" duration="438000" />
       <workItem from="1697547244822" duration="591000" />
-      <workItem from="1697547866498" duration="1585000" />
+      <workItem from="1697547866498" duration="3992000" />
+      <workItem from="1697571010789" duration="1829000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -141,7 +155,47 @@
       <option name="project" value="LOCAL" />
       <updated>1697549652263</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <option name="closed" value="true" />
+      <created>1697550488418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697550488418</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Server update">
+      <option name="closed" value="true" />
+      <created>1697550504729</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697550504729</updated>
+    </task>
+    <task id="LOCAL-00007" summary="tax folder ongoing">
+      <option name="closed" value="true" />
+      <created>1697550522616</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697550522616</updated>
+    </task>
+    <task id="LOCAL-00008" summary="developer folder ongoing">
+      <option name="closed" value="true" />
+      <created>1697550537436</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697550537437</updated>
+    </task>
+    <task id="LOCAL-00009" summary="developer folder ongoing">
+      <option name="closed" value="true" />
+      <created>1697550550151</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697550550151</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +203,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="Server update" />
+    <MESSAGE value="tax folder ongoing" />
+    <MESSAGE value="developer folder ongoing" />
+    <option name="LAST_COMMIT_MESSAGE" value="developer folder ongoing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
