@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="dev tax done">
-      <change afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/validation/DeveloperValidation.java" afterDir="false" />
+    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="CRUD ops done via Developer Controller">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/model/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/model/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependencyInjection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +121,8 @@
       <workItem from="1697547244822" duration="591000" />
       <workItem from="1697547866498" duration="3992000" />
       <workItem from="1697571010789" duration="3478000" />
-      <workItem from="1697599540656" duration="4329000" />
+      <workItem from="1697599540656" duration="4872000" />
+      <workItem from="1697604463880" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -276,7 +276,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697601643957</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="CRUD ops done">
+      <option name="closed" value="true" />
+      <created>1697604292706</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697604292706</updated>
+    </task>
+    <task id="LOCAL-00021" summary="dev validation">
+      <option name="closed" value="true" />
+      <created>1697604308849</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697604308849</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Developer POJO">
+      <option name="closed" value="true" />
+      <created>1697604329455</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697604329455</updated>
+    </task>
+    <task id="LOCAL-00023" summary="CRUD ops done via Developer Controller">
+      <option name="closed" value="true" />
+      <created>1697604353093</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697604353093</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +326,11 @@
     <MESSAGE value="dev factory" />
     <MESSAGE value="dev controller ongoing" />
     <MESSAGE value="dev tax done" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev tax done" />
+    <MESSAGE value="CRUD ops done" />
+    <MESSAGE value="dev validation" />
+    <MESSAGE value="Developer POJO" />
+    <MESSAGE value="CRUD ops done via Developer Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD ops done via Developer Controller" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
