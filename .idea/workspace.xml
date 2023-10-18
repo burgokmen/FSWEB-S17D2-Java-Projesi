@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="experience enum created">
-      <change afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/model/DeveloperFactory.java" afterDir="false" />
+    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="dev controller ongoing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/tax/DeveloperTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/tax/DeveloperTax.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +120,7 @@
       <workItem from="1697547244822" duration="591000" />
       <workItem from="1697547866498" duration="3992000" />
       <workItem from="1697571010789" duration="3478000" />
-      <workItem from="1697599540656" duration="1092000" />
+      <workItem from="1697599540656" duration="2078000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -235,7 +234,39 @@
       <option name="project" value="LOCAL" />
       <updated>1697581521142</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="dev record">
+      <option name="closed" value="true" />
+      <created>1697600958122</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697600958122</updated>
+    </task>
+    <task id="LOCAL-00016" summary="dev factory">
+      <option name="closed" value="true" />
+      <created>1697600968993</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697600968993</updated>
+    </task>
+    <task id="LOCAL-00017" summary="dev controller ongoing">
+      <option name="closed" value="true" />
+      <created>1697600983203</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697600983203</updated>
+    </task>
+    <task id="LOCAL-00018" summary="dev controller ongoing">
+      <option name="closed" value="true" />
+      <created>1697600992179</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697600992179</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +280,10 @@
     <MESSAGE value="developer classes created" />
     <MESSAGE value="developer controller created" />
     <MESSAGE value="experience enum created" />
-    <option name="LAST_COMMIT_MESSAGE" value="experience enum created" />
+    <MESSAGE value="dev record" />
+    <MESSAGE value="dev factory" />
+    <MESSAGE value="dev controller ongoing" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev controller ongoing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

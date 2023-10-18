@@ -1,5 +1,8 @@
 package com.brutech.DependencyInjection.tax;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class DeveloperTax implements Taxable {
     @Override
     public double getSimpleTaxRate() {
