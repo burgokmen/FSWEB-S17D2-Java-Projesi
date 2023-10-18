@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="dev controller ongoing">
+    <list default="true" id="38c50862-a0d9-4c85-a657-195698a550c0" name="Changes" comment="dev tax done">
+      <change afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/validation/DeveloperValidation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/tax/DeveloperTax.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/tax/DeveloperTax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/model/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/model/Developer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" beforeDir="false" afterPath="$PROJECT_DIR$/DependencyInjection/src/main/java/com/brutech/DependencyInjection/rest/DeveloperController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +122,7 @@
       <workItem from="1697547244822" duration="591000" />
       <workItem from="1697547866498" duration="3992000" />
       <workItem from="1697571010789" duration="3478000" />
-      <workItem from="1697599540656" duration="2078000" />
+      <workItem from="1697599540656" duration="4329000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -266,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697600992179</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="dev tax done">
+      <option name="closed" value="true" />
+      <created>1697601643957</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697601643957</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,7 +293,8 @@
     <MESSAGE value="dev record" />
     <MESSAGE value="dev factory" />
     <MESSAGE value="dev controller ongoing" />
-    <option name="LAST_COMMIT_MESSAGE" value="dev controller ongoing" />
+    <MESSAGE value="dev tax done" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev tax done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
