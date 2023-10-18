@@ -2,6 +2,8 @@ package com.brutech.DependencyInjection.model;
 
 import com.brutech.DependencyInjection.enums.Experience;
 
+import java.util.Objects;
+
 public class Developer {
 
     private int id;
@@ -46,5 +48,28 @@ public class Developer {
 
     public void setExperience(Experience experience) {
         this.experience = experience;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Developer developer = (Developer) o;
+        return id == developer.id;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id);
+    }
+
+    @Override
+    public String toString() {
+        return "Developer{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", salary=" + salary +
+                ", experience=" + experience +
+                '}';
     }
 }
